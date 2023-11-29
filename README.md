@@ -1,6 +1,6 @@
 # Dept-First Search
 
-**Note that this implementation is not finished.**
+**Note that this the recursive implementation**
 
 This exercise is inspired by ADS. This is not exam-level material for AD, but meant as a useful exercise to practice with the concept of recursion.
 
