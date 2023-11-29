@@ -7,6 +7,7 @@ public class Main {
      * @return true if found, else false.
      */
     public boolean search(BinaryTree tree, int element) {
+
         if (tree == null) return false; // clause that ends the recursive loop
 
         if (tree.getKey() == element) return true; // if this is the element return true
